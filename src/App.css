@@ -28,6 +28,23 @@
   color: #61dafb;
 }
 
+
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  margin: 10px;
+  display: inline-block;
+}
+
+.square {
+  width: 100px;
+  height: 100px;
+  background-color: white;
+  margin: 10px;
+  display: inline-block;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
